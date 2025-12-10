@@ -1,9 +1,5 @@
-nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-# --------------
-# 192.168.3.35 2025-12-6
-google/cadvisor:latest
+
+gcr.io/cadvisor/cadvisor:v0.47.0
