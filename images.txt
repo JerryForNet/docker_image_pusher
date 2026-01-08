@@ -5,4 +5,4 @@
 # 推送镜像：quay.io/cloudhut/kowl:master
 # 推送后地址为： registry.cn-hangzhou.aliyuncs.com/jerryli_docker/kowl:master
 
-openjdk:8-jdk-alpine
+openjdk:11
