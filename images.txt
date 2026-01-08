@@ -2,4 +2,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+# 推送镜像：quay.io/cloudhut/kowl:master
+# 推送后地址为： registry.cn-hangzhou.aliyuncs.com/jerryli_docker/kowl
+
 quay.io/cloudhut/kowl:master
