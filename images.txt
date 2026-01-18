@@ -5,16 +5,16 @@
 # 推送镜像：quay.io/cloudhut/kowl:master
 # 推送后地址为： registry.cn-hangzhou.aliyuncs.com/jerryli_docker/kowl:master
 
-docker.io/longhornio/longhorn-manager:master-head
-docker.io/longhornio/longhorn-engine:master-head
-docker.io/longhornio/longhorn-instance-manager:master-head
-docker.io/longhornio/longhorn-share-manager:master-head
-docker.io/longhornio/longhorn-ui:master-head
-docker.io/longhornio/backing-image-manager:master-head
-docker.io/longhornio/support-bundle-kit:v0.0.78
-docker.io/longhornio/csi-attacher:v4.10.0-20251226
-docker.io/longhornio/csi-provisioner:v5.3.0-20251226
-docker.io/longhornio/csi-node-driver-registrar:v2.15.0-20251226
-docker.io/longhornio/csi-resizer:v2.0.0-20251226
-docker.io/longhornio/csi-snapshotter:v8.4.0-20251226
-docker.io/longhornio/livenessprobe:v2.17.0-20251226
+longhornio/longhorn-manager:v1.10.1
+longhornio/longhorn-engine:v1.10.1
+longhornio/longhorn-instance-manager:v1.10.1
+longhornio/longhorn-share-manager:v1.10.1
+longhornio/backing-image-manager:v1.10.1
+longhornio/support-bundle-kit:v0.0.71
+longhornio/csi-attacher:v4.10.0-20251030
+longhornio/csi-provisioner:v5.3.0-20251030
+longhornio/csi-node-driver-registrar:v2.15.0-20251030
+longhornio/csi-resizer:v1.14.0-20251030
+longhornio/csi-snapshotter:v8.4.0-20251030
+longhornio/livenessprobe:v2.17.0-20251030
+longhornio/longhorn-ui:v1.10.1
