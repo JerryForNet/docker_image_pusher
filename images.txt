@@ -5,4 +5,8 @@
 # 推送镜像：quay.io/cloudhut/kowl:master
 # 推送后地址为： registry.cn-hangzhou.aliyuncs.com/jerryli_docker/kowl:master
 
-nginx:stable-alpine3.17-slim
+longhornio/longhorn-manager:v1.7.2
+longhornio/longhorn-driver-deployer:v1.7.2
+longhornio/longhorn-ui:v1.7.2
+longhornio/longhorn-csi-plugin:v1.7.2
+longhornio/longhorn-engine:v1.7.2
