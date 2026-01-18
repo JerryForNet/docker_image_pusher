@@ -6,3 +6,4 @@
 # 推送后地址为： registry.cn-hangzhou.aliyuncs.com/jerryli_docker/kowl:master
 
 docker.io/longhornio/longhorn-manager:master-head
+docker.io/longhornio/longhorn-ui:master-head
