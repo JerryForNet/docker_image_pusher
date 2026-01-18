@@ -7,3 +7,4 @@
 
 docker.io/longhornio/longhorn-manager:master-head
 docker.io/longhornio/longhorn-ui:master-head
+docker.io/longhornio/longhorn-share-manager:master-head
