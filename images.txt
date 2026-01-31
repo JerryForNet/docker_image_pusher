@@ -5,5 +5,4 @@
 # 推送镜像：quay.io/cloudhut/kowl:master
 # 推送后地址为： registry.cn-hangzhou.aliyuncs.com/jerryli_docker/kowl:master
 
-bitnami/wordpress:latest
-bitnami/mariadb:latest
+docker.io/library/busybox:1.28
