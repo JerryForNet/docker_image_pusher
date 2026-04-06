@@ -5,4 +5,4 @@
 # 推送镜像：quay.io/cloudhut/kowl:master
 # 推送后地址为： registry.cn-hangzhou.aliyuncs.com/jerryli_docker/kowl:master
 ghcr.io/openclaw/openclaw:latest
-ghcr.io/zeroclaw-labs/zeroclaw:latest
+ghcr.io/zeroclaw-labs/zeroclaw:debian
