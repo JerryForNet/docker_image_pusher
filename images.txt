@@ -7,4 +7,5 @@
 #ghcr.io/openclaw/openclaw:latest
 #ghcr.io/zeroclaw-labs/zeroclaw:debian
 #agentscope/copaw:latest
-pgvector/pgvector:pg16
+#pgvector/pgvector:pg16
+nousresearch/hermes-agent
