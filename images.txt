@@ -8,4 +8,5 @@
 #ghcr.io/zeroclaw-labs/zeroclaw:debian
 #agentscope/copaw:latest
 #pgvector/pgvector:pg16
-nousresearch/hermes-agent
+#nousresearch/hermes-agent
+ghcr.io/1panel-dev/maxkb-vector-model:v1.0.1
