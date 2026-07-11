@@ -26,4 +26,5 @@
 #prom/prometheus@sha256:a75c5a35bc21d7afe69551eefa3cb1e1fb1775fe759408007a66b54ec3de1f29
 #grafana/grafana:12.4.4-ubuntu@sha256:df2e7ef5f32f771794cf76bad5f2bceac227036460a2cc269a9045e5662abc58
 
-python:3.8.16-bullseye
+#python:3.8.16-bullseye
+python:3.8-slim-bullseye
