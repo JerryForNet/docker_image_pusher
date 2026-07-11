@@ -29,4 +29,6 @@
 #python:3.8.16-bullseye
 #python:3.8.16-slim-bullseye
 
-mysql:5.7
+#mysql:5.7
+
+birdxs/openstock:latest
