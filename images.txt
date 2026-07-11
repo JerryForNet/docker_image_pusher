@@ -31,4 +31,5 @@
 
 #mysql:5.7
 
-birdxs/openstock:latest
+#birdxs/openstock:latest
+mongo:7
