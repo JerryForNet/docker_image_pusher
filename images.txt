@@ -35,4 +35,5 @@
 #mongo:7
 #jupyter/base-notebook:latest
 #jupyter/minimal-notebook:aarch64-latest
-quay.io/jupyter/base-notebook:a374cab4fcb6
+#quay.io/jupyter/base-notebook:a374cab4fcb6
+bde2020/hive:2.3.2
