@@ -32,4 +32,5 @@
 #mysql:5.7
 
 #birdxs/openstock:latest
-mongo:7
+#mongo:7
+jupyter/base-notebook:latest
