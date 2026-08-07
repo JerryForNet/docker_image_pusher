@@ -36,4 +36,6 @@
 #jupyter/base-notebook:latest
 #jupyter/minimal-notebook:aarch64-latest
 #quay.io/jupyter/base-notebook:a374cab4fcb6
-bde2020/hive:2.3.2
+#bde2020/hive:2.3.2
+
+gcr.io/google-samples/xtrabackup:1.0
