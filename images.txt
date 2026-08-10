@@ -38,4 +38,5 @@
 #quay.io/jupyter/base-notebook:a374cab4fcb6
 #bde2020/hive:2.3.2
 
-jmgao1983/xtrabackup:1.0
+#jmgao1983/xtrabackup:1.0
+ubuntu:20.04
