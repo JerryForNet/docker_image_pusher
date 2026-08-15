@@ -4,8 +4,8 @@
 
 # 推送镜像：quay.io/cloudhut/kowl:master
 # 推送后地址为： registry.cn-hangzhou.aliyuncs.com/jerryli_docker/kowl:master
-ghcr.io/openclaw/openclaw:latest
-ghcr.io/zeroclaw-labs/zeroclaw:debian
+#ghcr.io/openclaw/openclaw:latest
+#ghcr.io/zeroclaw-labs/zeroclaw:debian
 #agentscope/copaw:latest
 #pgvector/pgvector:pg16
 #nousresearch/hermes-agent
@@ -40,3 +40,4 @@ ghcr.io/zeroclaw-labs/zeroclaw:debian
 
 #jmgao1983/xtrabackup:1.0
 #ubuntu:20.04
+jupyterhub/k8s-singleuser-sample:0.7.0
