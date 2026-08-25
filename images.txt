@@ -40,4 +40,5 @@
 
 #jmgao1983/xtrabackup:1.0
 #ubuntu:20.04
-jupyterhub/k8s-singleuser-sample:0.7.0
+#jupyterhub/k8s-singleuser-sample:0.7.0
+traefik:v1.7.20v
